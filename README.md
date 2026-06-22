@@ -2,7 +2,7 @@
 ## 👋 Hi there, I'm Faith Cheptoo
 
 
-- Junior Data Scientist Student | Health Science Background | Passionate about Data & Analytics
+- Data Science and Data Engineering Student| Health Science Background | Passionate about Data & Analytics
 - I am passionate about exploring how data can transform healthcare and decision-making.  
 - Currently learning and building projects in data analytics and machine learning.
 
